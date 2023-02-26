@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\FP_kurs\FP_kurs\obj\Debug\net6.0\FP_kurs.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\FP_kurs\FP_kurs\obj\Debug\net6.0\FP_kurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\FP_kurs\FP_kurs\obj\Debug\net6.0\FP_kurs.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\FP_kurs\FP_kurs\obj\Debug\net6.0\FP_kurs.AssemblyInfo.cs
+C:\Users\User\RiderProjects\FP_kurs\FP_kurs\obj\Debug\net6.0\FP_kurs.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\FP_kurs\FP_kurs\bin\Debug\net6.0\FP_kurs.exe
+C:\Users\User\RiderProjects\FP_kurs\FP_kurs\bin\Debug\net6.0\FP_kurs.deps.json
+C:\Users\User\RiderProjects\FP_kurs\FP_kurs\bin\Debug\net6.0\FP_kurs.runtimeconfig.json
+C:\Users\User\RiderProjects\FP_kurs\FP_kurs\bin\Debug\net6.0\FP_kurs.dll
+C:\Users\User\RiderProjects\FP_kurs\FP_kurs\bin\Debug\net6.0\ref\FP_kurs.dll
+C:\Users\User\RiderProjects\FP_kurs\FP_kurs\bin\Debug\net6.0\FP_kurs.pdb
+C:\Users\User\RiderProjects\FP_kurs\FP_kurs\obj\Debug\net6.0\FP_kurs.dll
+C:\Users\User\RiderProjects\FP_kurs\FP_kurs\obj\Debug\net6.0\ref\FP_kurs.dll
+C:\Users\User\RiderProjects\FP_kurs\FP_kurs\obj\Debug\net6.0\FP_kurs.pdb
+C:\Users\User\RiderProjects\FP_kurs\FP_kurs\obj\Debug\net6.0\FP_kurs.genruntimeconfig.cache
